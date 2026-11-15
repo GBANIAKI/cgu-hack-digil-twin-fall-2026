@@ -1,0 +1,22 @@
+{
+  "person_id": "VOLUNTEER_001",
+  "items": [
+    {"id": "B01", "response": 4},
+    {"id": "B02", "response": 2},
+    {"id": "B03", "response": 5},
+    {"id": "B04", "response": 2},
+    {"id": "B05", "response": 3},
+    {"id": "B06", "response": 2},
+    {"id": "B07", "response": 4},
+    {"id": "B08", "response": 2},
+    {"id": "B09", "response": 4},
+    {"id": "B10", "response": 2}
+  ],
+  "scenarios": [
+    {"id": "S01", "choice": "D", "explanation": "I would raise the concern as a question and explain the risk."}
+  ],
+  "writing": [
+    {"id": "W01", "text": "Hello team, I know this is disappointing news. The project has been cancelled. Thank you for the work you put into it."}
+  ],
+  "skipped": []
+}
